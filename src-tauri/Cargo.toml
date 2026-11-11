@@ -1,0 +1,31 @@
+[package]
+name = "flicky"
+version = "1.0.0"
+description = "Flicky Windows file utility"
+authors = ["aaryush-exe"]
+homepage = "https://github.com/aaryush-exe"
+repository = "https://github.com/aaryush-exe"
+edition = "2021"
+
+[lib]
+name = "flicky_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["tray-icon"] }
+tauri-plugin-dialog = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-global-shortcut = "2"
+tauri-plugin-single-instance = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
