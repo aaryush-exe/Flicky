@@ -58,7 +58,11 @@ Whether you're converting documents, changing media formats, or managing archive
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header" width="80%"/>
 
 **CTRL + SHIFT + SPACE**
+<div align="center">
 
+<img src="assets/flicky-orbit.gif" width="850" alt="Flicky Orbit Interface Demo"/>
+
+</div>
 <sub>Summon the Flicky Orbit directly from your Windows workflow.</sub>
 
 </div>
