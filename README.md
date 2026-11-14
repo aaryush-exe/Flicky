@@ -1,228 +1,278 @@
-<div align="center">
+ <div align="center">
 
-<!-- Animated Header SVG -->
-<a href="https://github.com/aaryush-exe/Flicky">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=85&lines=⚡+FLICKY+ENGINE;NEXT-GEN+ACCELERATION;ULTRA-FAST.+ZERO+BLOAT." alt="Flicky Typing Banner" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=65&lines=Meet+Flicky.;Files.+Converted.+Effortlessly.;One+shortcut.+Infinite+possibilities." alt="Flicky animated heading" />
 
-<p align="center">
-  <b>The ultimate high-performance powerhouse engineered for absolute speed, precision, and zero-latency execution.</b>
-</p>
+### A modern Windows utility for effortless file conversion, compression & extraction.
 
-<!-- Neon Pill Badges -->
-<p align="center">
-  <a href="https://github.com/aaryush-exe/Flicky/stargazers">
-    <img src="https://img.shields.io/github/stars/aaryush-exe/Flicky?style=for-the-badge&logo=starship&color=00FF66&labelColor=0D1117" alt="Stars"/>
-  </a>
-  <a href="https://github.com/aaryush-exe/Flicky/network/members">
-    <img src="https://img.shields.io/github/forks/aaryush-exe/Flicky?style=for-the-badge&logo=git&color=00F0FF&labelColor=0D1117" alt="Forks"/>
-  </a>
-  <a href="https://github.com/aaryush-exe/Flicky/issues">
-    <img src="https://img.shields.io/github/issues/aaryush-exe/Flicky?style=for-the-badge&logo=target&color=FF0055&labelColor=0D1117" alt="Issues"/>
-  </a>
-  <a href="https://github.com/aaryush-exe/Flicky/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/aaryush-exe/Flicky?style=for-the-badge&logo=opensourceinitiative&color=A855F7&labelColor=0D1117" alt="License"/>
-  </a>
-</p>
-
-<!-- Quick Nav Links -->
-<p align="center">
-  <a href="#-core-highlights"><b>Highlights</b></a> •
-  <a href="#-system-architecture"><b>Architecture</b></a> •
-  <a href="#-quick-start"><b>Quick Start</b></a> •
-  <a href="#-configuration"><b>Config</b></a> •
-  <a href="#-directory-structure"><b>Structure</b></a> •
-  <a href="#-roadmap"><b>Roadmap</b></a>
-</p>
+**Your files. Your workflow. One beautiful orbit.**
 
 <br/>
 
-<!-- Glowing Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B1D,100:00FF66&height=110&section=header&text=HIGH%20PERFORMANCE%20ENGINE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-white?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Tauri](https://img.shields.io/badge/Tauri-v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<br/>
+
+<a href="https://github.com/aaryush-exe/Flicky">
+  <img src="https://img.shields.io/github/stars/aaryush-exe/Flicky?style=social" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/aaryush-exe/Flicky/network/members">
+  <img src="https://img.shields.io/github/forks/aaryush-exe/Flicky?style=social" alt="GitHub forks"/>
+</a>
+<a href="https://github.com/aaryush-exe/Flicky/issues">
+  <img src="https://img.shields.io/github/issues/aaryush-exe/Flicky?color=white&style=flat-square" alt="GitHub issues"/>
+</a>
+
+<br/><br/>
+
+**[Explore the Repository](https://github.com/aaryush-exe/Flicky)**
+&nbsp; • &nbsp;
+**[Report a Bug](https://github.com/aaryush-exe/Flicky/issues)**
+&nbsp; • &nbsp;
+**[Request a Feature](https://github.com/aaryush-exe/Flicky/issues)**
 
 </div>
 
 ---
 
-## 🌟 Core Highlights
+## ◈ What is Flicky?
 
-Most modern tools come packed with heavy overhead, bloated node modules, and sluggish response times. **Flicky** breaks the mold with a custom-built, lightweight execution pipeline.
+Flicky reimagines the way you interact with files on Windows.
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>⚡ Sub-Millisecond Core</h3>
-      <p>Optimized asynchronous event loops ensuring instant throughput even under intense concurrent load.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🧩 Plug & Play Modules</h3>
-      <p>Decoupled component architecture lets you drop in new features or routes without breaking the core state.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🛡️ Built-In Fortification</h3>
-      <p>Native rate-limiting, strict payload sanitization, and secure environment isolation out of the box.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🐳 Multi-Env Ready</h3>
-      <p>Deploy seamlessly on local hardware, scale via Docker containers, or ship straight to cloud runners.</p>
-    </td>
-  </tr>
-</table>
+Instead of navigating through multiple applications, menus, and windows, Flicky gives you a sleek, animated radial interface that puts useful file operations right at your cursor.
+
+Select a file. Press a shortcut. Choose an action. Done.
+
+Whether you're converting documents, changing media formats, or managing archives, Flicky makes everyday file operations feel effortless.
 
 ---
 
-## 🏗️ System Architecture
+## ✦ The Experience
 
-```mermaid
-graph TD
-    subgraph Client Layer
-        A[Client / API Consumer] -->|Encrypted Payload| B(Gateway & Rate Limiter)
-    end
+<div align="center">
 
-    subgraph Core Engine
-        B --> C{Flicky Async Dispatcher}
-        C --> D[Module Handler]
-        C --> E[State Manager]
-    end
+### One shortcut. A whole new workflow.
 
-    subgraph Persistence
-        E --> F[(Database / Cache)]
-    end
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header" width="80%"/>
 
-    D -->|Instant Response| A
+**CTRL + SHIFT + SPACE**
 
-    style C fill:#0D1117,stroke:#00FF66,stroke-width:2px,color:#fff
-    style B fill:#0D1117,stroke:#00F0FF,stroke-width:2px,color:#fff
-    style F fill:#0D1117,stroke:#A855F7,stroke-width:2px,color:#fff
+<sub>Summon the Flicky Orbit directly from your Windows workflow.</sub>
 
+</div>
+
+### ◉ The Orbit Interface
+
+A floating, cursor-positioned radial menu designed to keep file actions close at hand.
+
+- Animated orbit-style interaction.
+- Context-aware conversion options.
+- Quick access to file operations.
+- Separate transparent, always-on-top overlay.
+- Minimal, dark visual experience.
+
+### ⚡ Quick File Actions
+
+No unnecessary navigation. Select your files and access the operations you need.
+
+- Convert supported file formats.
+- Create compressed archives.
+- Extract existing archives.
+- Process multiple selected files.
+- View processing progress.
+
+### 📦 Archive Management
+
+Flicky integrates with WinRAR for archive operations.
+
+- Create ZIP archives.
+- Extract supported archives.
+- Handle password-protected archives.
+- Choose extraction destinations.
+- Manage archive conflicts.
+
+### 🔄 Conversion Engines
+
+Flicky uses external engines for supported conversion workflows.
+
+| Engine | Purpose | Package |
+|---|---|---|
+| FFmpeg | Audio & video conversion | `Gyan.FFmpeg` |
+| LibreOffice | Office document conversion | `TheDocumentFoundation.LibreOffice` |
+| WinRAR | Archive creation & extraction | `RARLab.WinRAR` |
+
+Flicky includes an engine manager that can help install supported dependencies through Windows Package Manager (`winget`).
+
+---
+
+## ⚙️ Built for Windows
+
+Flicky is more than a web interface. It is built as a native Windows desktop application using Tauri.
+
+| Feature | Details |
+|---|---|
+| Desktop framework | Tauri 2 |
+| Interface | React |
+| Language | TypeScript |
+| Backend | Rust |
+| Build tool | Vite |
+| Styling | Tailwind CSS |
+| Platform | Windows 10 / 11 |
+| Installer formats | MSI & NSIS |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Download Flicky
+
+Visit the repository's Releases page to find available builds.
+
+<div align="center">
+
+<a href="https://github.com/aaryush-exe/Flicky/releases">
+  <img src="https://img.shields.io/badge/DOWNLOAD%20FLICKY-FFFFFF?style=for-the-badge&logo=windows&logoColor=black" alt="Download Flicky"/>
+</a>
+
+</div>
+
+### 2. Install the required engines
+
+Some operations require external dependencies:
+
+- **WinRAR** — archive creation and extraction.
+- **FFmpeg** — audio and video conversion.
+- **LibreOffice** — office document conversion.
+
+You can use Flicky's engine manager to install supported engines. These dependencies are not bundled with Flicky.
+
+### 3. Start using Flicky
+
+1. Select one or more files in Windows Explorer.
+2. Press `Ctrl + Shift + Space`.
+3. Choose an available action from the Orbit.
+4. Let Flicky process your files.
+
+**Default output location:**
+
+```text
+%USERPROFILE%\Downloads\Flicky
 ```
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Build From Source
 
----
+Want to explore the code or build Flicky yourself?
 
-## 🚀 Quick Start
+### Requirements
 
-Get **Flicky** up and running on your local machine in under 60 seconds.
+- Windows 10 / 11 (64-bit)
+- Node.js 20.19+ or 22.12+
+- Rust stable (MSVC toolchain)
+- Visual Studio 2022 Build Tools or Community with Desktop development with C++
+- Microsoft Edge WebView2 Runtime
 
-### 1️⃣ Clone & Navigate
+### Installation
+
+Clone the repository:
 
 ```bash
-git clone [https://github.com/aaryush-exe/Flicky.git](https://github.com/aaryush-exe/Flicky.git)
+git clone https://github.com/aaryush-exe/Flicky.git
+```
+
+Navigate into the project:
+
+```bash
 cd Flicky
-
 ```
 
-### 2️⃣ Install Dependencies
-
-Choose your preferred runtime stack:
+Install dependencies:
 
 ```bash
-# Node.js / Bun
-npm install        # or: bun install
-
-# Python
-pip install -r requirements.txt
-
+npm install
 ```
 
-### 3️⃣ Configure Environment
-
-Duplicate the template configuration and supply your keys:
+Start the development environment:
 
 ```bash
-cp .env.example .env
-
+npm run tauri dev
 ```
 
-### 4️⃣ Launch the Engine 🚀
+Build the production application:
 
 ```bash
-# Development Mode (Hot Reload)
-npm run dev
-
-# Production Mode
-npm start
-
+npm run tauri build
 ```
 
-If you prefer running Flicky inside an isolated container:
+Your Windows installer artifacts will be generated inside:
 
-```bash
-# Build the container image
-docker build -t flicky:latest .
-
-# Run container with environment mapping
-docker run -d --name flicky-engine --env-file .env -p 3000:3000 flicky:latest
-
+```text
+src-tauri/target/release/bundle/
 ```
 
 ---
 
-## ⚙️ Configuration Matrix
-
-Fine-tune **Flicky**'s behavior using your `.env` file parameters:
-
-| Variable Name | Type | Default | Description |
-| --- | --- | --- | --- |
-| `PORT` | `Number` | `3000` | Port assigned to the internal server listener |
-| `ENV_MODE` | `String` | `production` | Execution state (`development` vs `production`) |
-| `API_SECRET` | `String` | *Required* | Master cryptographic signature token |
-| `MAX_WORKERS` | `Number` | `4` | Maximum parallel concurrency worker threads |
-| `DEBUG_MODE` | `Boolean` | `false` | Enable verbose terminal debugging outputs |
-
----
-
-## 📂 Directory Structure
+## 📁 Project Structure
 
 ```text
 Flicky/
-├── 📂 src/
-│   ├── 📂 core/          # ⚡ Main execution engine & event loop
-│   ├── 📂 modules/       # 🧩 Modular feature controllers
-│   ├── 📂 middleware/    # 🛡️ Security, auth & rate limiting
-│   └── 📂 utils/         # 🛠️ Helpers, formatters & loggers
-├── 📂 config/            # ⚙️ Runtime configuration schemas
-├── 📂 tests/             # 🧪 Automated unit & integration tests
-├── 🐳 Dockerfile         # Container packaging manifest
-├── 📄 .env.example       # Template environment variables
-└── 📖 README.md          # Project documentation
-
+│
+├── src/
+│   └── Application frontend
+│
+├── src-tauri/
+│   ├── src/
+│   │   └── Native Rust backend
+│   ├── icons/
+│   └── tauri.conf.json
+│
+├── ENGINE-MANAGER.md
+├── README-WINDOWS.md
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── vite.config.ts
 ```
 
 ---
 
-## 🗺️ Development Roadmap
+## 🔐 Privacy & Transparency
 
-* [x] **v1.0** — Core engine framework & high-speed dispatch pipeline
-* [x] **v1.2** — Modular plugin loader & telemetry loggers
-* [ ] **v1.5** — Real-time WebSockets & metrics visualization dashboard
-* [ ] **v2.0** — Distributed node cluster scaling support
+Flicky is designed to keep file operations local to your machine.
 
----
+- No telemetry by design.
+- No unnecessary cloud conversion workflow.
+- Original source files are not modified by conversion operations.
+- External engines are installed separately.
+- Dependencies are not silently installed.
 
-## 🤝 Contributing
-
-Got an optimization or feature idea to make **Flicky** even faster? Contributions are welcome!
-
-1. **Fork** the repository (`https://github.com/aaryush-exe/Flicky/fork`)
-2. **Create** your feature branch (`git checkout -b feature/lightning-boost`)
-3. **Commit** your changes (`git commit -m 'feat: optimized dispatcher latency by 35%'`)
-4. **Push** to the branch (`git push origin feature/lightning-boost`)
-5. **Open** a Pull Request
+Read more about the Windows implementation in [README-WINDOWS.md](README-WINDOWS.md) and engine installation in [ENGINE-MANAGER.md](ENGINE-MANAGER.md).
 
 ---
 
-## 📜 License
+## 🖤 The Philosophy
 
-Distributed under the **MIT License**. See [`LICENSE`](https://www.google.com/search?q=LICENSE) for complete details.
+<div align="center">
 
----
+### Less clicking. Less clutter. More doing.
 
-### ⭐ Leave a star if Flicky accelerated your workflow!
+A small utility should feel like a natural extension of your workflow.
 
-Crafted with 💻 & ⚡ by **[aaryush-exe](https://github.com/aaryush-exe)**
+**That's Flicky.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&section=footer" width="80%"/>
+
+### Made with care by [Aaryush Raj](https://github.com/aaryush-exe)
+
+<sub>If Flicky makes your workflow easier, consider giving the repository a ⭐</sub>
+
+[![GitHub](https://img.shields.io/badge/GitHub-aaryush--exe-181717?style=flat-square&logo=github)](https://github.com/aaryush-exe)
+[![Repository](https://img.shields.io/badge/Project-Flicky-white?style=flat-square)](https://github.com/aaryush-exe/Flicky)
+
+</div>
