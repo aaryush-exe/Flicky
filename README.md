@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=65&lines=Meet+Flicky.;Files.+Converted.+Effortlessly.;One+shortcut.+Infinite+possibilities." alt="Flicky animated heading" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=65&lines=Meet+Flicky.;Files.+Converted.+Effortlessly.;One+shortcut.;Infinite+possibilities." alt="Flicky animated heading" />
 
 ### A modern Windows utility for effortless file conversion, compression & extraction.
 
